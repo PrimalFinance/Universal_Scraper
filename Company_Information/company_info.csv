@@ -1,0 +1,85 @@
+Ticker, Company Name, Sector, Industry, Country
+AAPL,Apple Inc.,Information Technology,Consumer Electronics,USA
+AJRD,"Aerojet Rocketdyne Holdings, Inc.",Industrials,Aerospace & Defense,USA
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,USA
+AMC,"AMC Entertainment Holdings, Inc.",Communication Services,Entertainment,USA
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,Switzerland
+AMD,"Advanced Micro Devices, Inc.",Information Technology,Semiconductors,USA
+AMRS,"Amyris, Inc.",Basic Materials,Specialty Chemicals,USA
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,USA
+ASML,ASML Holding N.V.,Information Technology,Semiconductor Equipment & Materials,Netherlands
+ASTS,"AST SpaceMobile, Inc.",Communication Services,Telecom Services,USA
+AVAV,"AeroVironment, Inc.",Industrials,Aerospace & Defense,USA
+AXON,"Axon Enterprise, Inc.",Industrials,Aerospace & Defense,USA
+BABA,Alibaba Group Holding Limited,Consumer Cyclical,Internet Retail,China
+BBAI,"BigBear.ai Holdings, Inc.",Information Technology,Information Technology Services,USA
+BBBY,Bed Bath & Beyond Inc.,Consumer Cyclical,Specialty Retail,USA
+BKSY,BlackSky Technology Inc.,Information Technology,Scientific & Technical Instruments,USA
+BLK,"BlackRock, Inc.",Financial,Asset Management,USA
+BRK-B,Berkshire Hathaway Inc.,Financial,Insurance - Diversified,USA
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,USA
+CHPT,"ChargePoint Holdings, Inc.",Consumer Cyclical,Specialty Retail,USA
+CLF,Cleveland-Cliffs Inc.,Basic Materials,Steel,USA
+COIN,"Coinbase Global, Inc.",Financial,Financial Data & Stock Exchanges,USA
+CRSP,CRISPR Therapeutics AG,Healthcare,Biotechnology,Switzerland
+DASH,"DoorDash, Inc.",Communication Services,Internet Content & Information,USA
+DIS,The Walt Disney Company,Communication Services,Entertainment,USA
+DM,"Desktop Metal, Inc.",Information Technology,Computer Hardware,USA
+DNN,Denison Mines Corp.,Energy,Uranium,Canada
+DOMA,Doma Holdings Inc.,Real Estate,Real Estate Services,USA
+EGLE,Eagle Bulk Shipping Inc.,Industrials,Marine Shipping,USA
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,USA
+GEO,"The GEO Group, Inc.",Industrials,Security & Protection Services,USA
+GME,GameStop Corp.,Consumer Cyclical,Specialty Retail,USA
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,USA
+GSAT,"Globalstar, Inc.",Communication Services,Telecom Services,USA
+IBM,International Business Machines Corporation,Information Technology,Information Technology Services,USA
+INTC,Intel Corporation,Information Technology,Semiconductors,USA
+JPM,JPMorgan Chase & Co.,Financial,Banks - Diversified,USA
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,USA
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,USA
+KTOS,"Kratos Defense & Security Solutions, Inc.",Industrials,Aerospace & Defense,USA
+LAC,Lithium Americas Corp.,Basic Materials,Other Industrial Metals & Mining,Canada
+LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,USA
+MAXR,Maxar Technologies Inc.,Information Technology,Communication Equipment,USA
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,USA
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,USA
+MMM,3M Company,Industrials,Conglomerates,USA
+MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,USA
+MSFT,Microsoft Corporation,Information Technology,Software - Infrastructure,USA
+MU,"Micron Technology, Inc.",Information Technology,Semiconductors,USA
+MVIS,"MicroVision, Inc.",Information Technology,Scientific & Technical Instruments,USA
+MVST,"Microvast Holdings, Inc.",Industrials,Electrical Equipment & Parts,USA
+NVDA,NVIDIA Corporation,Information Technology,Semiconductors,USA
+O,Realty Income Corporation,Real Estate,REIT - Retail,USA
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,USA
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,USA
+PLTR,Palantir Technologies Inc.,Information Technology,Software - Infrastructure,USA
+PTON,"Peloton Interactive, Inc.",Consumer Cyclical,Leisure,USA
+PXD,Pioneer Natural Resources Company,Energy,Oil & Gas E&P,USA
+PYPL,"PayPal Holdings, Inc.",Financial,Credit Services,USA
+RBLX,Roblox Corporation,Communication Services,Electronic Gaming & Multimedia,USA
+RIG,Transocean Ltd.,Energy,Oil & Gas Drilling,Switzerland
+RKLB,"Rocket Lab USA, Inc.",Industrials,Aerospace & Defense,USA
+RTX,Raytheon Technologies Corporation,Industrials,Aerospace & Defense,USA
+RYCEY,Rolls-Royce Holdings plc,Industrials,Aerospace & Defense,N\A
+SCHW,The Charles Schwab Corporation,Financial,Capital Markets,USA
+SMR,NuScale Power Corporation,Industrials,Specialty Industrial Machinery,USA
+SONY,Sony Group Corporation,Information Technology,Consumer Electronics,Japan
+SQ,"Block, Inc.",Information Technology,Software - Infrastructure,USA
+SWBI,"Smith & Wesson Brands, Inc.",Industrials,Aerospace & Defense,USA
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,USA
+TXN,Texas Instruments Incorporated,Information Technology,Semiconductors,USA
+UEC,Uranium Energy Corp.,Energy,Uranium,USA
+UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,USA
+UUUU,Energy Fuels Inc.,Energy,Uranium,USA
+V,Visa Inc.,Financial,Credit Services,USA
+VLD,"Velo3D, Inc.",Information Technology,Computer Hardware,USA
+WBD,"Warner Bros. Discovery, Inc.",Communication Services,Entertainment,USA
+WEN,The Wendy's Company,Consumer Cyclical,Restaurants,USA
+WM,"Waste Management, Inc.",Industrials,Waste Management,USA
+X,United States Steel Corporation,Basic Materials,Steel,USA
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,USA
+ZIM,ZIM Integrated Shipping Services Ltd.,Industrials,Marine Shipping,Israel
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,USA
+GWRS,"Global Water Resources, Inc.",Utilities,Utilities - Regulated Water,USA
